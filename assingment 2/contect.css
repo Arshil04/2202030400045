@@ -1,0 +1,291 @@
+.contect-child {
+  position: absolute;
+  top: 29px;
+  left: 290px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-dimgray);
+  width: 1178px;
+  height: 76px;
+}
+.home-gallery-book4 {
+  position: absolute;
+  top: 45px;
+  left: 384px;
+  font-size: var(--font-size-17xl);
+  white-space: pre-wrap;
+}
+.icon16 {
+  position: absolute;
+  top: 29px;
+  left: 38px;
+  width: 142px;
+  height: 105px;
+  object-fit: cover;
+}
+.contact-us {
+  margin: 0;
+  font-weight: 800;
+  white-space: pre-wrap;
+}
+.any-question-or {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.contact-us-any-container {
+  position: absolute;
+  top: 148px;
+  left: calc(50% - 340px);
+  font-size: var(--font-size-45xl);
+}
+.contect-item {
+  position: absolute;
+  top: 286px;
+  left: 38px;
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  background-color: var(--color-darkslategray);
+  width: 508px;
+  height: 567px;
+}
+.at-navsarigujaratindia,
+.xyzgmailcom1 {
+  position: absolute;
+  top: 773px;
+  left: 102px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.xyzgmailcom1 {
+  top: 656px;
+  left: 93px;
+}
+.call-icon {
+  position: absolute;
+  top: 491px;
+  left: 58px;
+  width: 100px;
+  height: 60.4px;
+  object-fit: cover;
+}
+.div1 {
+  position: absolute;
+  top: 545px;
+  left: 91px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-white);
+}
+.contect-inner {
+  position: absolute;
+  top: 286px;
+  left: 546px;
+  border-radius: 0 var(--br-xl) var(--br-xl) 0;
+  background-color: #e3dfdf;
+  width: 922px;
+  height: 567px;
+}
+.write-your-message {
+  position: absolute;
+  top: 749px;
+  left: 640px;
+  font-size: var(--font-size-smi);
+  font-weight: 300;
+}
+.message1 {
+  margin: 0;
+}
+.message {
+  position: absolute;
+  top: 718px;
+  left: 597px;
+  font-weight: 600;
+}
+.phone-number,
+.what-you-want {
+  position: absolute;
+  top: 620px;
+  left: 607px;
+}
+.phone-number {
+  top: 524px;
+  left: 1121px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+}
+.email2,
+.phone {
+  position: absolute;
+  top: 467px;
+  left: 1131px;
+  font-weight: 600;
+}
+.email2 {
+  left: 638px;
+}
+.last-name1,
+.surname {
+  position: absolute;
+  left: 1099px;
+}
+.surname {
+  top: 361px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+}
+.last-name1 {
+  top: 321px;
+  font-weight: 500;
+}
+.contact-information {
+  margin: 0;
+  font-weight: 600;
+}
+.fill-up-the {
+  margin: 0;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+}
+.contact-information-fill-container {
+  position: absolute;
+  top: 314px;
+  left: 58px;
+  font-size: var(--font-size-13xl);
+}
+.call-icon1,
+.call-icon2 {
+  position: absolute;
+  top: 590px;
+  left: 62px;
+  width: 100px;
+  height: 60.4px;
+  object-fit: cover;
+}
+.call-icon2 {
+  top: 719px;
+}
+.first-name1 {
+  position: absolute;
+  top: 321px;
+  left: 619px;
+  font-weight: 500;
+}
+.contect-child1,
+.contect-child2,
+.line-icon {
+  position: absolute;
+  top: 388px;
+  left: 590px;
+  width: 374px;
+  height: 1px;
+  object-fit: contain;
+}
+.contect-child1,
+.contect-child2 {
+  top: 550px;
+}
+.contect-child2 {
+  top: 554px;
+  left: 1052px;
+}
+.name {
+  position: absolute;
+  top: 365px;
+  left: 626px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+}
+.contect-child3 {
+  position: absolute;
+  top: 387px;
+  left: 1052px;
+  width: 374px;
+  height: 1px;
+  object-fit: contain;
+}
+.buy-car-sell,
+.enter-email-address {
+  position: absolute;
+  top: 524px;
+  left: 619px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+}
+.buy-car-sell {
+  top: 670px;
+  left: 590px;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.contect-child4,
+.contect-child5,
+.contect-child6,
+.contect-child7,
+.ellipse-div {
+  position: absolute;
+  top: 675px;
+  left: 575px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 10px;
+  height: 10px;
+}
+.contect-child4,
+.contect-child5,
+.contect-child6,
+.contect-child7 {
+  top: 674px;
+  left: 1273px;
+}
+.contect-child5,
+.contect-child6,
+.contect-child7 {
+  top: 675px;
+  left: 1126px;
+}
+.contect-child6,
+.contect-child7 {
+  top: 674px;
+  left: 979px;
+}
+.contect-child7 {
+  top: 675px;
+  left: 686px;
+}
+.contect-child8,
+.line-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div {
+  top: 765px;
+  left: 601.5px;
+  border-top: 1px solid var(--color-black);
+  width: 561px;
+  height: 1px;
+}
+.contect-child8 {
+  top: 790px;
+  left: 1193px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  width: 229px;
+  height: 42px;
+}
+.send-message {
+  position: absolute;
+  top: 799px;
+  left: 1239px;
+  font-weight: 300;
+}
+.contect {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

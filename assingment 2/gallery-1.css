@@ -1,0 +1,76 @@
+.gallery-1-child {
+  position: absolute;
+  top: 72px;
+  left: 313px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-dimgray);
+  width: 1178px;
+  height: 76px;
+}
+.home-gallery-book1 {
+  position: absolute;
+  top: 88px;
+  left: 407px;
+  white-space: pre-wrap;
+}
+.icon2 {
+  position: absolute;
+  top: 64px;
+  left: 61px;
+  width: 155px;
+  height: 119px;
+  object-fit: cover;
+}
+.only-the-best {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.our-vehicle-fleet {
+  margin: 0;
+  font-size: var(--font-size-45xl);
+}
+.only-the-best-container {
+  position: absolute;
+  top: 221px;
+  left: calc(50% - 272px);
+  font-weight: 600;
+  font-size: var(--font-size-xl);
+}
+.icon3 {
+  left: 17px;
+  width: 484px;
+}
+.icon3,
+.icon4,
+.icon5 {
+  position: absolute;
+  top: 525px;
+  height: 406px;
+  object-fit: cover;
+}
+.icon4 {
+  left: calc(50% - 242px);
+  width: 484px;
+}
+.icon5 {
+  left: 1011px;
+  width: 480px;
+}
+.we-provide-our-container {
+  position: absolute;
+  top: 374px;
+  left: calc(50% - 533px);
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.gallery-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+  --font-size-29xl: 48px;
+  --font-size-smi: 13px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkslategray: #2a5b5b;
+  --color-gainsboro-100: #d9d9d9;
+  --color-dimgray: #656a6a;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-21xl: 40px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+}

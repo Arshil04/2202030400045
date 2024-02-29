@@ -1,0 +1,122 @@
+.fb-icon,
+.ig-icon,
+.tw-icon,
+.wa-icon {
+  position: absolute;
+  top: 0;
+  left: 147px;
+  width: 180px;
+  height: 113.4px;
+  object-fit: cover;
+}
+.fb-icon,
+.tw-icon,
+.wa-icon {
+  left: 987px;
+  height: 108.8px;
+}
+.tw-icon,
+.wa-icon {
+  top: 3px;
+  left: 297px;
+}
+.wa-icon {
+  top: 4px;
+  left: 807px;
+}
+.yt-icon {
+  top: 4px;
+  left: 477px;
+}
+.call-icon3,
+.li-icon,
+.yt-icon {
+  position: absolute;
+  width: 180px;
+  height: 108.8px;
+  object-fit: cover;
+}
+.li-icon {
+  top: 4px;
+  left: calc(50% - 114px);
+}
+.call-icon3 {
+  top: 0;
+  left: 1167px;
+}
+.buy {
+  font-size: var(--font-size-13xl);
+}
+.buy,
+.new-vehicles {
+  margin: 0;
+}
+.buy-new-vehicles-pre-owned-container {
+  position: absolute;
+  top: 201px;
+  left: 176px;
+}
+.sell-schedule-an-container {
+  position: absolute;
+  top: 208px;
+  left: calc(50% - 125px);
+}
+.sales-department {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.hours-sales-department-container {
+  position: absolute;
+  top: 187px;
+  left: 1046px;
+  font-size: var(--font-size-xl);
+}
+.services {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+}
+.services-request-maintenance-c-container {
+  position: absolute;
+  top: 491px;
+  left: 173px;
+}
+.others-financing-about-us-care-container {
+  position: absolute;
+  top: 485px;
+  left: 631px;
+}
+.sell-your-car-container {
+  position: absolute;
+  top: 398px;
+  left: 982px;
+  font-size: var(--font-size-17xl);
+}
+.about-child,
+.service-department-everyday-container {
+  position: absolute;
+  top: 573px;
+  left: 987px;
+}
+.about-child {
+  top: 745px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 1512px;
+  height: 237px;
+}
+.virtue-premium- {
+  position: absolute;
+  top: 788px;
+  left: 416px;
+}
+.about {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

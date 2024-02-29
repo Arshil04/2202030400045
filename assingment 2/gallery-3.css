@@ -1,0 +1,67 @@
+.gallery-3-child {
+  position: absolute;
+  top: 35px;
+  left: 83px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 1301px;
+  height: 78px;
+}
+.interior-look {
+  position: absolute;
+  top: 45px;
+  left: calc(50% - 212px);
+  font-weight: 800;
+}
+.i1-icon {
+  left: 33px;
+}
+.i1-icon,
+.i3-icon,
+.i4-icon {
+  position: absolute;
+  top: 179px;
+  width: 450px;
+  height: 337.5px;
+  object-fit: cover;
+}
+.i4-icon {
+  left: calc(50% - 225px);
+}
+.i3-icon {
+  left: 1029px;
+}
+.i6-icon,
+.i7-icon,
+.i8-icon,
+.i9-icon {
+  position: absolute;
+  top: 660px;
+  left: 33px;
+  width: 300px;
+  height: 225px;
+  object-fit: cover;
+}
+.i7-icon,
+.i8-icon,
+.i9-icon {
+  left: 416px;
+}
+.i7-icon,
+.i8-icon {
+  left: 799px;
+}
+.i8-icon {
+  left: 1182px;
+}
+.gallery-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

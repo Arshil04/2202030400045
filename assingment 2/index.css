@@ -1,0 +1,89 @@
+.home-child {
+  position: absolute;
+  top: 72px;
+  left: 313px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-dimgray);
+  width: 1178px;
+  height: 76px;
+}
+.home-inner,
+.home-item {
+  position: absolute;
+  top: 221px;
+  left: 608px;
+  background-color: var(--color-gainsboro-100);
+  width: 883px;
+  height: 629px;
+}
+.home-inner {
+  top: 434px;
+  left: 16px;
+  width: 547px;
+  height: 356px;
+}
+.its-a-most {
+  margin: 0;
+}
+.its-a-most-container {
+  position: absolute;
+  top: 593px;
+  left: 43px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.mahindra-scorpio-s11-series-container {
+  position: absolute;
+  top: 456px;
+  left: 44px;
+  font-weight: 800;
+}
+.home-gallery-book {
+  position: absolute;
+  top: 88px;
+  left: 407px;
+  white-space: pre-wrap;
+}
+.icon {
+  position: absolute;
+  top: 321px;
+  left: 699px;
+  width: 751px;
+  height: 478px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 714px;
+  left: 87px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-darkslategray);
+  width: 346px;
+  height: 47px;
+}
+.order-now- {
+  position: absolute;
+  top: 726px;
+  left: 170px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+}
+.icon1 {
+  position: absolute;
+  top: 64px;
+  left: 61px;
+  width: 155px;
+  height: 119px;
+  object-fit: cover;
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

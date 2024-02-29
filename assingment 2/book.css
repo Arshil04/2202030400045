@@ -1,0 +1,227 @@
+.book-child {
+  position: absolute;
+  top: 45px;
+  left: 294px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-dimgray);
+  width: 1178px;
+  height: 76px;
+}
+.home-gallery-book2 {
+  position: absolute;
+  top: 61px;
+  left: 375px;
+  font-size: var(--font-size-17xl);
+  white-space: pre-wrap;
+}
+.book-item,
+.icon13 {
+  position: absolute;
+  left: 44px;
+}
+.icon13 {
+  top: 23px;
+  width: 155px;
+  height: 119px;
+  object-fit: cover;
+}
+.book-item {
+  top: 160px;
+  border-radius: var(--br-11xl);
+  background-color: #bfbfbf;
+  width: 1442px;
+  height: 784px;
+}
+.appointment {
+  position: absolute;
+  top: 780px;
+  left: 109px;
+  font-size: var(--font-size-xl);
+}
+.book-inner {
+  position: absolute;
+  top: 626px;
+  left: 843px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 483px;
+  height: 28px;
+}
+.state,
+.state-name {
+  position: absolute;
+  top: 632px;
+  left: 862px;
+}
+.state {
+  top: 588px;
+  left: 852px;
+  font-size: var(--font-size-xl);
+}
+.book-child1,
+.book-child2,
+.book-child3 {
+  position: absolute;
+  top: 626px;
+  left: 109px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 483px;
+  height: 28px;
+}
+.book-child2,
+.book-child3 {
+  top: 720px;
+}
+.book-child3 {
+  top: 846px;
+}
+.address,
+.city,
+.city1 {
+  position: absolute;
+  top: 632px;
+  left: 136px;
+}
+.address,
+.city1 {
+  top: 584px;
+  left: 101px;
+  font-size: var(--font-size-xl);
+}
+.address {
+  top: 494px;
+}
+.book-child4,
+.book-child5,
+.book-child6 {
+  position: absolute;
+  top: 348px;
+  left: 101px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 483px;
+  height: 28px;
+}
+.book-child5,
+.book-child6 {
+  top: 440px;
+}
+.book-child6 {
+  top: 534px;
+  width: 1022px;
+}
+.div {
+  position: absolute;
+  top: 446px;
+  left: 124px;
+}
+.email,
+.mobile-no {
+  position: absolute;
+  top: 401px;
+  left: 842px;
+  font-size: var(--font-size-xl);
+}
+.mobile-no {
+  top: 396px;
+  left: 101px;
+}
+.book-child7,
+.dd-mm-yyyy {
+  position: absolute;
+  top: 852px;
+  left: 136px;
+}
+.book-child7 {
+  top: 348px;
+  left: 842px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 483px;
+  height: 28px;
+}
+.last-name {
+  position: absolute;
+  top: 354px;
+  left: 866px;
+}
+.full-name {
+  margin: 0;
+}
+.full-name-container {
+  position: absolute;
+  top: 301px;
+  left: 101px;
+  font-size: var(--font-size-xl);
+}
+.enter-your-number {
+  position: absolute;
+  top: 728px;
+  left: 129px;
+}
+.book-your-car {
+  margin: 0;
+  font-weight: 800;
+  white-space: pre-wrap;
+}
+.get-your-car {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.book-your-car-container {
+  position: absolute;
+  top: 187px;
+  left: calc(50% - 182px);
+  font-size: 40px;
+}
+.book-child8 {
+  position: absolute;
+  top: 435px;
+  left: 842px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 483px;
+  height: 28px;
+}
+.first-name,
+.xyzgmailcom {
+  position: absolute;
+  top: 440px;
+  left: 873px;
+}
+.first-name {
+  top: 354px;
+  left: 120px;
+}
+.book-child9,
+.street-1 {
+  position: absolute;
+  top: 539px;
+  left: 122px;
+}
+.book-child9 {
+  top: 846px;
+  left: 1034px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray);
+  width: 252px;
+  height: 63px;
+}
+.submit {
+  position: absolute;
+  top: 856px;
+  left: 1100px;
+  font-size: var(--font-size-17xl);
+}
+.book {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

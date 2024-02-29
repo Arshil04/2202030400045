@@ -1,0 +1,80 @@
+.gallery2-child {
+  position: absolute;
+  top: 35px;
+  left: 83px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 1301px;
+  height: 78px;
+}
+.exterior-look {
+  position: absolute;
+  top: 45px;
+  left: calc(50% - 220px);
+  font-weight: 800;
+}
+.icon10,
+.icon11,
+.icon12,
+.icon6,
+.icon7,
+.icon8,
+.icon9 {
+  position: absolute;
+  top: 171px;
+  left: 37px;
+  width: 450px;
+  height: 337px;
+  object-fit: cover;
+}
+.icon10,
+.icon11,
+.icon12,
+.icon7,
+.icon8,
+.icon9 {
+  left: 525px;
+  height: 337.5px;
+}
+.icon10,
+.icon11,
+.icon12,
+.icon8,
+.icon9 {
+  top: 170px;
+  left: 1013px;
+}
+.icon10,
+.icon11,
+.icon12,
+.icon9 {
+  top: 657px;
+  left: 37px;
+  width: 300px;
+  height: 223px;
+}
+.icon10,
+.icon11,
+.icon12 {
+  left: 413px;
+  height: 225px;
+}
+.icon11,
+.icon12 {
+  left: 789px;
+}
+.icon12 {
+  top: 655px;
+  left: 1165px;
+}
+.gallery2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
